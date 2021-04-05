@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#revisited
 # create a small string
 lilstring = "Alta3 Research offers classes on Python coding"
 newlist = lilstring.split(" ") # this returns a list
