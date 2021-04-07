@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Alta3 Research || Author: RZFeeser@alta3.com"""
-
+import crayons
 # function to push commands
 def commandpush(devicecmd): # devicecmd==list
     for coffeetime in devicecmd.keys():
